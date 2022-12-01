@@ -2,6 +2,7 @@ import React from "react";
 import '../body/body.css';
 import  gonza from '../body/gonza.jpg';
 
+
 const ConfigBody = () => {
     
     return(

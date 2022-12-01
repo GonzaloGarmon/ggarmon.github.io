@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@1,200&family=Bitter:wght@100;400;700&display=swap');
+
+
+*{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
 .grid{
     display: grid;
     grid-template-columns: 50vw 50vw;
@@ -63,6 +70,7 @@
 }
 
 .boton {
+    font-family:sans-serif;
     display: flex;
     justify-content: center;
     color:white ;
