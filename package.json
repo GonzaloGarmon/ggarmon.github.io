@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "react-bootstrap": "^2.6.0"
+    "react-bootstrap": "^2.6.0",
+    "test": "jest --watchAll --verbose --coverage --runInBand",
+    "start": "node index.js",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "homepage": "https://gonzalogarmon.github.io/proyectoFinal/"
+    
   }
 }
