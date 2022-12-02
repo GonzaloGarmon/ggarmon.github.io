@@ -38,6 +38,7 @@
 }
 
 .botonTop{
+    text-decoration: none;
     animation: App-logo-spin;
     padding-top: 100px;
     width: 70vw;
@@ -46,6 +47,7 @@
 }
 
 .botonVuelta{
+    text-decoration: none;
     animation: App-logo-spin;
     animation: App-logo-spin infinite 20s linear;
     color:white;
@@ -58,6 +60,21 @@
     
 }
 
+.botonVuelta:hover{
+    text-decoration: none;
+    color: white;
+    animation: none;
+    transform: scale(1.2)
+}
+
+
+
+
+.up{
+    color: white;
+    text-decoration: none;
+    line-height: 10px;
+}
 
 @keyframes App-logo-spin {
     from {
@@ -67,7 +84,18 @@
       transform: rotate(360deg);
     }
   }
+  .li{
+    text-decoration: none;
+}
+.li1{
+    text-decoration: none;
+    color: black;
+}
 
+.li1:hover{
+    text-decoration: none;
+    color: black;
+}
 
 .comentario{
     padding-top: 150px;

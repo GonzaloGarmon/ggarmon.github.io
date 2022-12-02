@@ -6,11 +6,11 @@ import '../head/navbar.css'
 
 const NavBarExample = () => {
     return (
-<>
+<div className='mainDivNav'>
         <Navbar className="nav" variant="dark" expand="rg">
           <Container>
             <Navbar.Brand href=""> </Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav"/>
+            <Navbar.Toggle className="menu"aria-controls="basic-navbar-nav"/>
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="navs">
                 <Nav.Link className='inicio' href="/">Inicio</Nav.Link>
@@ -23,7 +23,7 @@ const NavBarExample = () => {
         <section className="outlet">
           <Outlet> </Outlet>
         </section>
-</>
+</div>
 
  ); 
 };

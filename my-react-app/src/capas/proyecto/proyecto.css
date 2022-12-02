@@ -1,3 +1,4 @@
+
 .proyectos{
     display: grid;
     width: 100vw;
@@ -28,3 +29,41 @@
     height: 80px;
     border-bottom: 1px solid white;
 }   
+
+.proyecto1{
+    color: aliceblue;
+    text-align: left;
+    align-content: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.proyecto2{
+    color: aliceblue;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.carpinchos{
+    height: 417px;
+    width: 498px;
+}
+
+.frontend{
+    height: 417px;
+    width: 498px;
+}
+
+.flecha{
+    color: rgb(255,255,255);
+    text-decoration: none;
+    padding-left: 240px;
+
+}
+
+.flecha:hover{
+    color: rgb(255,255,255);
+}

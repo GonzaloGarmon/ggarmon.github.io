@@ -7,7 +7,7 @@ const ConfigHead = () => {
 
     return (
         
-    <div>
+    <div className="mainDivHead">
         <head>
             <title> Pagina Oficial </title>
         </head>

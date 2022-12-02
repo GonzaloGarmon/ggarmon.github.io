@@ -10,7 +10,7 @@ import Curriculum from './componentes/cv';
 function App() {
 
   return (
-    <>
+    <div className='mainDiv'>
     <BrowserRouter>
         <Routes>
         <Route path="/" element={<Inicio/>}> </Route>
@@ -20,7 +20,7 @@ function App() {
         <Route path="/" element={<Inicio/>}> </Route>
         </Routes>
     </BrowserRouter>
-    </>
+    </div>
   )
 };
 
