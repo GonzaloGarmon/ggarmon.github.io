@@ -5,6 +5,7 @@ const router = express.Router()
 const mongoose = require ('mongoose')
 const eschema = mongoose.Schema
 
+
 const eschemausuario = new eschema ({
     nombre: String,
     apellido: String,
@@ -78,9 +79,7 @@ router.post('/actualizausuario', (req,res) => {
 
 
 
-
 //Borrar Usuario
-
 router.post('/borrarusuario', (req,res) => {
     ModeloUsuario.findOneAndDelete({idusuario:req.body.idusuario}).then((err,docs) => {
             if(!err){
