@@ -6,6 +6,7 @@
 ### Paso 1:
 Realizar un 
 > git clone https://github.com/GonzaloGarmon/proyecto.git
+
 En su gitBash o consola de Windows/Linux/MAC
 
 ### Paso 2:
@@ -41,23 +42,27 @@ Luego remplazar en el archivo **conexion.js** en la parte *mongoose.connect(mong
 ### Paso 1:
 Pararse en GonzaloGarmon/proyecto y usar:
 > cd server
+
 Luego utilizar el comando nodemon 
 
 ### Paso 2:
 ***Abrir una nueva consola y:***
 Pararse en GonzaloGarmon/proyecto y usar:
+
 > cd gonzalogarmon.github.io
+
 Luego utilizar el comando npm start 
 
 ## Utilizacion del mismo
 
 Este proyecto se creo para la utilizacion y testeo del formulario que se encuentra en la seccion de "contacto" de la pagina web 
 Va a poder realizar las operaciones de 
-> Insertar usuario
-> Ver la lista de usuarios
-> Modificarlos
-> Borrarlos
-
+```
+ Insertar usuario
+ Ver la lista de usuarios
+ Modificarlos
+ Borrarlos
+```
 
 
 
