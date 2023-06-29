@@ -5,12 +5,12 @@
 ## Proceso para instalacion de proyecto
 ### Paso 1:
 
-Realizar un en su gitBash o consola de Windows/Linux/MAC
+Realizar un git clone en su gitBash o consola de Windows/Linux/MAC
 > git clone https://github.com/GonzaloGarmon/proyecto.git
 
 
 
-Luego pararse en "./proyecto" y realizar el git clone si la carpeta de gonzalogarmon.github.io esta vacia para descargar el submodulo 
+Luego pararse en "./proyecto" y eliminar la carpeta de gonzalogarmon.github.io, hacemos nuevamente un git clone para descargar el submodulo 
 > git clone https://github.com/GonzaloGarmon/gonzalogarmon.github.io
 
 
