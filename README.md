@@ -1,6 +1,6 @@
 # Diplomatura Full Stack Developver
  - Se utilizo para este proyecto React, JavaScript, Html, Css, Bootstrap para el desarrollo FrontEnd
- - Se utilizo para este proyecto Node.js, Express.js, MongoDB
+ - Se utilizo para este proyecto Node.js, Express.js, MongoDB para el desarrollo BackEnd
    
 ## Proceso para instalacion de proyecto
 ### Paso 1:
