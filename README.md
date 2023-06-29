@@ -48,7 +48,7 @@ en la raiz del proyecto para que pueda sincronizar la base de datos con el Front
 
 ### Luego queda proceder con su utilizacion
 ### Paso 1:
-Pararse en GonzaloGarmon/proyecto y usar:
+Pararse en "./proyecto" y usar:
 > cd server
 
 Luego utilizar el comando ```nodemon ```
@@ -56,7 +56,7 @@ Luego utilizar el comando ```nodemon ```
 ### Paso 2:
 ***Abrir una nueva consola y:***
 
-Pararse en GonzaloGarmon/proyecto y usar:
+Pararse en "./proyecto" y usar:
 
 > cd gonzalogarmon.github.io
 
