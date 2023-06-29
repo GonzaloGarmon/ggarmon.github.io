@@ -13,14 +13,14 @@ Realizar un git clone en su gitBash o consola de Windows/Linux/MAC
 Luego pararse en "./proyecto" y eliminar la carpeta de gonzalogarmon.github.io, hacemos nuevamente un git clone para descargar el submodulo 
 > git clone https://github.com/GonzaloGarmon/gonzalogarmon.github.io
 
-
+Antes de terminar este paso abrimos el VScode
 
 ### Paso 2:
 Parandonos en la carpeta del repositorio tendra que instalar las dependendendecias de React en la consola de:
  ```
  npm install react
  npm install react-router-dom
- npm install react-dom/client
+ npm install react-dom
  npm install react-hook-form
  npm install react-bootstrap
 
@@ -38,10 +38,8 @@ Luego instalar las dependendencias de Node, Express y MongoDB:
 ```
 ## Proceso para correr proyecto
 
-Antes de realizar lo siguiente tiene que crearse un archivo **.env** yy en el mismo declarar la variable *PORT=6983* 
-en la raiz del proyecto para que pueda sincronizar la base de datos con el front end
-Luego remplazar en el archivo **conexion.js** en la parte *mongoose.connect(mongodb://127.0.0.1:sulocalportdelaMongoDb/backend)*
-
+Antes de realizar lo siguiente tiene que crearse un archivo **.env** y en el mismo declarar la variable *PORT=6983* y *MONGO_URL="URL DE SU BASE DE DATOS"*
+en la raiz del proyecto para que pueda sincronizar la base de datos con el FrontEnd
 
 
 ### Luego queda proceder con su utilizacion
@@ -57,7 +55,7 @@ Pararse en GonzaloGarmon/proyecto y usar:
 
 > cd gonzalogarmon.github.io
 
-Luego utilizar el comando npm start 
+Luego utilizar el comando ```npm start``` 
 
 ## Utilizacion del mismo
 
