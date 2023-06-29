@@ -38,7 +38,10 @@ Luego instalar las dependendencias de Node, Express y MongoDB:
 ```
 ## Proceso para correr proyecto
 
-Antes de realizar lo siguiente tiene que crearse un archivo **.env** y en el mismo declarar la variable *PORT=6983* y *MONGO_URL="URL DE SU BASE DE DATOS"*
+Antes de realizar lo siguiente tiene que crearse un archivo **.env** y en el mismo declarar la variable:
+  -*PORT=6983*  
+  -*MONGO_URL="URL DE SU BASE DE DATOS"*
+  
 en la raiz del proyecto para que pueda sincronizar la base de datos con el FrontEnd
 
 
