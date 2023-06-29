@@ -2,8 +2,8 @@
 .DS_Store
 
 # Directorios
-/node_modules/
-/dist/
+/node_modules
+/dist
 
 # Archivos de configuración local
 .env
