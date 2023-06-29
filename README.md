@@ -4,15 +4,16 @@
    
 ## Proceso para instalacion de proyecto
 ### Paso 1:
-Realizar un 
+
+Realizar un en su gitBash o consola de Windows/Linux/MAC
 > git clone https://github.com/GonzaloGarmon/proyecto.git
 
-En su gitBash o consola de Windows/Linux/MAC
 
-Luego pararse en "./proyecto" y realizar el git clone si la carpeta de gonzalogarmon.github.io esta vacia 
+
+Luego pararse en "./proyecto" y realizar el git clone si la carpeta de gonzalogarmon.github.io esta vacia para descargar el submodulo 
 > git clone https://github.com/GonzaloGarmon/gonzalogarmon.github.io
 
-Para descargar el submodulo 
+
 
 ### Paso 2:
 Parandonos en la carpeta del repositorio tendra que instalar las dependendendecias de React en la consola de:
