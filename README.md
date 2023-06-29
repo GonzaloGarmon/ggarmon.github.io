@@ -9,7 +9,7 @@ Realizar un
 
 En su gitBash o consola de Windows/Linux/MAC
 
-Luego pararse en "./proyecto" y realizar 
+Luego pararse en "./proyecto" y realizar el git clone si la carpeta de gonzalogarmon.github.io esta vacia 
 > git clone https://github.com/GonzaloGarmon/gonzalogarmon.github.io
 
 Para descargar el submodulo 
