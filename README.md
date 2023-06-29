@@ -8,6 +8,7 @@ Realizar un
 > git clone https://github.com/GonzaloGarmon/proyecto.git
 
 En su gitBash o consola de Windows/Linux/MAC
+
 Luego pararse en "./proyecto" y realizar 
 > git clone https://github.com/GonzaloGarmon/gonzalogarmon.github.io
 
