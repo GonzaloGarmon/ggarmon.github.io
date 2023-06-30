@@ -25,7 +25,7 @@ app.post("/backend/usuario/form", (req, res) =>{
         <ul>
             <li> Email: ${req.body.email}</li>
             <li> Nombre y apellido: ${req.body.nombre} ${req.body.apellido}</li>
-            <li> Nombre y apellido: ${req.body.comentario}</li> 
+            <li> Comentario: ${req.body.comentario}</li> 
         </ul>
         <h4>Gracias por llenar el formulario!</h4>
         `;
