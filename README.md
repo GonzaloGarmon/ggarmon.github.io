@@ -18,22 +18,13 @@ Antes de terminar este paso abrimos el VScode
 ### Paso 2:
 Parandonos en la carpeta del repositorio tendra que instalar las dependendendecias de React en la consola de:
  ```
- npm install react
- npm install react-router-dom
- npm install react-dom
- npm install react-hook-form
- npm install react-bootstrap
+ npm install react react-router-dom react-dom react-hook-form react-bootstrap
 
 ```
 ### Paso 3:
 Luego instalar las dependendencias de Node, Express y MongoDB:
  ```
- npm install express
- npm install body-parser
- npm install cors
- npm install dotenv
- npm install mongoose
- npm install nodemon
+ npm install express body-parser body-parser cors dotenv mongoose nodemon
 
 ```
 ## Proceso para correr proyecto
