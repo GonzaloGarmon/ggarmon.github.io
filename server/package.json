@@ -10,7 +10,8 @@
     "mongoose": "^7.3.1",
     "moongoose": "^0.0.1",
     "node": "^20.3.1",
-    "nodemailer": "^6.9.3"
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22"
   },
   "scripts": {
     "start": "node server.js"
